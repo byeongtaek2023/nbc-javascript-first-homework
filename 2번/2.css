@@ -1,0 +1,13 @@
+body {
+
+    display: flex;
+    flex-direction: row;
+
+
+   
+}
+
+div {
+  padding : 30px;
+  border : 1px solid black;
+}
