@@ -1,1 +1,3 @@
-document.querySelector("#heading").innerHTML="제목입니다";
+setTimeout(() => {
+  document.querySelector("body").innerHTML = "안녕";
+}, 3000);
